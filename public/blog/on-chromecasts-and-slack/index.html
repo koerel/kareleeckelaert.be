@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<meta name="author" content="Karel Eeckelaert">
+<meta name="description" content="What&#39;s playing at the office">
+
+<meta property="og:title" content="On Chromecasts and Slack" />
+<meta property="og:description" content="What&#39;s playing at the office" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://kareleeckelaert.be/blog/on-chromecasts-and-slack/" />
+
+
+
+<meta property="article:published_time" content="2017-06-01T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2017-06-01T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+
+<title>
+
+
+     On Chromecasts and Slack 
+
+</title>
+<link rel="canonical" href="http://kareleeckelaert.be/blog/on-chromecasts-and-slack/">
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/default.min.css">
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:500">
+
+
+
+    
+    <link rel="stylesheet" href="http://kareleeckelaert.be/css/reset.css?t=2018-03-21%2015%3a09%3a46.514149065%20%2b0100%20CET%20m%3d%2b0.046257367">
+    <link rel="stylesheet" href="http://kareleeckelaert.be/css/pygments.css?t=2018-03-21%2015%3a09%3a46.514149065%20%2b0100%20CET%20m%3d%2b0.046257367">
+    <link rel="stylesheet" href="http://kareleeckelaert.be/css/main.css?t=2018-03-21%2015%3a09%3a46.514149065%20%2b0100%20CET%20m%3d%2b0.046257367">
+    
+        <link rel="stylesheet" href="http://kareleeckelaert.be/css/override.css?t=2018-03-21%2015%3a09%3a46.514149065%20%2b0100%20CET%20m%3d%2b0.046257367">
+    
+
+
+
+
+<link rel="shortcut icon"
+
+    href="http://kareleeckelaert.be/img/leaf.ico"
+
+>
+
+
+
+
+
+
+
+
+</head>
+
+
+<body lang="en">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            
+                
+                
+                
+                
+                
+                    
+                
+                
+                <a href="http://kareleeckelaert.be/"><img class="avatar" src="http://kareleeckelaert.be/img/avatar.jpg" srcset="http://kareleeckelaert.be/img/avatar.jpg 1x"></a>
+            
+            <a href="http://kareleeckelaert.be/"><div class="name">Karel Eeckelaert</div></a>
+            
+            <nav>
+                <ul>
+                    
+                        <li class="nav-blog"><a href="http://kareleeckelaert.be/blog/"><span>Blog</span></a></li>
+                    
+                        <li class="nav-about"><a href="http://kareleeckelaert.be/about/"><span>About</span></a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+        
+            <a href="//github.com/koerel" target="_blank" rel="noopener"><img class="icon" src="http://kareleeckelaert.be/img/github.svg" alt="github" /></a>
+        
+
+        
+            <a href="//twitter.com/kareleeckelaert" target="_blank" rel="noopener"><img class="icon" src="http://kareleeckelaert.be/img/twitter.svg" alt="twitter" /></a>
+        
+
+	
+
+        
+
+        
+
+        
+            <a href="//linkedin.com/in/karel-eeckelaert-3127787/" target="_blank" rel="noopener"><img class="icon" src="http://kareleeckelaert.be/img/linkedin.svg" alt="linkedin" /></a>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+            <a href="mailto:mail@kareleeckelaert.be"><img class="icon" src="http://kareleeckelaert.be/img/email.svg" alt="email" /></a>
+        
+
+        
+
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    On Chromecasts and Slack
+
+</div>
+
+                    <div class="initials"><a href="http://kareleeckelaert.be"></a></div>
+                </div>
+                <div class="meta">
+                    
+                    <div class="date" title='Thu Jun 1 2017 00:00:00 UTC'>Jun 1, 2017</div>
+                    
+                    
+		    <div class="reading-time"><div class="middot"></div>2 minutes read</div>
+                    
+                </div>
+            </div>
+            <div class="markdown">
+                
+
+<h1 id="on-chromecasts-and-slack">On Chromecasts and Slack</h1>
+
+<h2 id="background">Background</h2>
+
+<p>Okay, first a little background. We - at <a href="http://bagaar.be">Bagaar</a> - are involved in all things digital. By nature many of us are interested in discovering new things, that includes music, lots of music. Therefore we had built a Slack integration that checked the &lsquo;current DJ&rsquo; at the office Last.fm scrobbles and posted them to a Slack channel for all to see.
+This worked fine while we were using an Apple Airport and Airplaying our tunes with Spotify.</p>
+
+<h2 id="the-problem">The problem</h2>
+
+<p>A while back however we decided to swap our beloved Airport Express for a Chromecast Audio, for reasons unknown to me.
+As some of you might know, tracks that are being casted can&rsquo;t be scrobbled, so our system was now broken.</p>
+
+<h2 id="almost-there">Almost there&hellip;</h2>
+
+<p>Being developers and all, we obviously saw this as a challenge rather than a problem. I knew the Chromecast had an API, so I started digging.
+Some Googling later, I found a nice JavaScript library - <a href="https://github.com/thibauts/node-castv2">castv2</a> - that did just what I wanted.
+It can fetch all kinds of data from the Chromecast: Artist, Track, Album, Spotify URI, etc&hellip; but there was one issue left. The Chromecast sits in our internal network and we&rsquo;re not too keen on opening ports into our network when not absolutely necessary.</p>
+
+<h2 id="websockets-to-the-rescue">WebSockets to the rescue!</h2>
+
+<p>In the office we have a Raspberry Pi connected to a television doubling as office dashboard. It seemed the perfect candidate to host our music tracker.
+On the Pi we decided to run a little Node.js application that connects to a WebSocket server and waits for commands. Now whenever someone uses the Slack command a webhook on a server is called that sends a message to the Pi over the websocket, which then in turn fetches and parses the Chromecast data and sends it into the originating Slack channel.
+Everybody happy!</p>
+
+                <br>
+		<p class="back-to-posts"><a href="http://kareleeckelaert.be/blog/">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/highlight.min.js"></script>
+  
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+
+
+</body>
+</html>
+
