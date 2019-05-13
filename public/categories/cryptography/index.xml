@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cryptography on Karel Eeckelaert</title>
-    <link>http://kareleeckelaert.be/categories/cryptography/</link>
+    <link>https://kareleeckelaert.be/categories/cryptography/</link>
     <description>Recent content in Cryptography on Karel Eeckelaert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kareleeckelaert.be/categories/cryptography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kareleeckelaert.be/categories/cryptography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On Chromecasts and Slack</title>
-      <link>http://kareleeckelaert.be/blog/on-chromecasts-and-slack/</link>
+      <link>https://kareleeckelaert.be/blog/on-chromecasts-and-slack/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://kareleeckelaert.be/blog/on-chromecasts-and-slack/</guid>
+      <guid>https://kareleeckelaert.be/blog/on-chromecasts-and-slack/</guid>
       <description>On Chromecasts and Slack Background Okay, first a little background. We - at Bagaar - are involved in all things digital. By nature many of us are interested in discovering new things, that includes music, lots of music. Therefore we had built a Slack integration that checked the &amp;lsquo;current DJ&amp;rsquo; at the office Last.fm scrobbles and posted them to a Slack channel for all to see. This worked fine while we were using an Apple Airport and Airplaying our tunes with Spotify.</description>
     </item>
     

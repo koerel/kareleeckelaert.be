@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Karel Eeckelaert</title>
-    <link>http://kareleeckelaert.be/categories/</link>
+    <link>https://kareleeckelaert.be/categories/</link>
     <description>Recent content in Categories on Karel Eeckelaert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://kareleeckelaert.be/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kareleeckelaert.be/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cryptography</title>
-      <link>http://kareleeckelaert.be/categories/cryptography/</link>
+      <link>https://kareleeckelaert.be/categories/cryptography/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://kareleeckelaert.be/categories/cryptography/</guid>
+      <guid>https://kareleeckelaert.be/categories/cryptography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>http://kareleeckelaert.be/categories/music/</link>
+      <link>https://kareleeckelaert.be/categories/music/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://kareleeckelaert.be/categories/music/</guid>
+      <guid>https://kareleeckelaert.be/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>http://kareleeckelaert.be/categories/technology/</link>
+      <link>https://kareleeckelaert.be/categories/technology/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://kareleeckelaert.be/categories/technology/</guid>
+      <guid>https://kareleeckelaert.be/categories/technology/</guid>
       <description></description>
     </item>
     

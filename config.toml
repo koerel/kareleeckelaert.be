@@ -1,4 +1,4 @@
-baseurl             = "http://kareleeckelaert.be"
+baseurl             = "https://kareleeckelaert.be"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -11,7 +11,7 @@ title               = "Karel Eeckelaert"
 pygmentsuseclasses  = true
 # disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-# googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-25534060-1"
 
 [permalinks]
 blog  = "blog/:slug/"
@@ -28,6 +28,12 @@ weight                 = -110
 identifier             = "about"
 url                    = "/about/"
 
+[[menu.main]]
+name                   = "Books"
+weight                 = -100
+identifier             = "books"
+url                    = "/books/"
+
 # [[menu.main]]
 # name                   = "Code"
 # weight                 = -100
@@ -42,10 +48,10 @@ author                 = "Karel Eeckelaert"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Don't panic"
+description            = "Hi, I'm Karel. Nice to meet you!"
 email                  = "mail@kareleeckelaert.be"
-extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
-faviconfile            = "img/leaf.ico"
+# extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+# faviconfile            = "img/leaf.ico"
 github                 = "//github.com/koerel"
 # instagram              = "//instagram.com/you"
 # px500                  = "//500px.com/username"
@@ -54,7 +60,7 @@ linkedin               = "//linkedin.com/in/karel-eeckelaert-3127787/"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
 selfintro              = ""                            # appears in the site header when set to a non-empty string
 twitter                = "//twitter.com/kareleeckelaert"
-# mastodon               = "//example.com/@you"
+mastodon               = "//mastodon.social/@koerel"
 
 highlightjs            = true
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set

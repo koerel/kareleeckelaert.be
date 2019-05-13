@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/koerel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kareleeckelaert.be
+  * I am koerel (https://keybase.io/koerel) on keybase.
+  * I have a public key ASB4YtIOKlgEOhgSjzCa4t5LEXCqmIQxwxmRqE8-YJRaqwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cf35ffc009dd3e6db28de3401082927315fbf669d7c88715ac9994d069dc5db40a",
+      "host": "keybase.io",
+      "kid": "01207862d20e2a58043a18128f309ae2de4b1170aa988431c31991a84f3e60945aab0a",
+      "uid": "82b594b4b385b992b500d7085c191819",
+      "username": "koerel"
+    },
+    "merkle_root": {
+      "ctime": 1521659742,
+      "hash": "dae5860f4bb9139dc437ee225cf74244d95102f049770ba88b94dc5de784b5555667813d74d6147cf94270e5d504ea95f9cae0cbfd13380238ebcf45bb5a7458",
+      "hash_meta": "a00f639674f9f8bedebeac14b4ace017b581d4335b32b343700976992cf31e60",
+      "seqno": 2268234
+    },
+    "service": {
+      "hostname": "kareleeckelaert.be",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521659754,
+  "expire_in": 504576000,
+  "prev": "34b276a2c1a36d9372c4d194f296120fb39659c7ffea4dffbddfb3d1d5dda755",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeGLSDipYBDoYEo8wmuLeSxFwqpiEMcMZkahPPmCUWqsKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2YzNWZmYzAwOWRkM2U2ZGIyOGRlMzQwMTA4MjkyNzMxNWZiZjY2OWQ3Yzg4NzE1YWM5OTk0ZDA2OWRjNWRiNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzg2MmQyMGUyYTU4MDQzYTE4MTI4ZjMwOWFlMmRlNGIxMTcwYWE5ODg0MzFjMzE5OTFhODRmM2U2MDk0NWFhYjBhIiwidWlkIjoiODJiNTk0YjRiMzg1Yjk5MmI1MDBkNzA4NWMxOTE4MTkiLCJ1c2VybmFtZSI6ImtvZXJlbCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMTY1OTc0MiwiaGFzaCI6ImRhZTU4NjBmNGJiOTEzOWRjNDM3ZWUyMjVjZjc0MjQ0ZDk1MTAyZjA0OTc3MGJhODhiOTRkYzVkZTc4NGI1NTU1NjY3ODEzZDc0ZDYxNDdjZjk0MjcwZTVkNTA0ZWE5NWY5Y2FlMGNiZmQxMzM4MDIzOGViY2Y0NWJiNWE3NDU4IiwiaGFzaF9tZXRhIjoiYTAwZjYzOTY3NGY5ZjhiZWRlYmVhYzE0YjRhY2UwMTdiNTgxZDQzMzViMzJiMzQzNzAwOTc2OTkyY2YzMWU2MCIsInNlcW5vIjoyMjY4MjM0fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImthcmVsZWVja2VsYWVydC5iZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIxNjU5NzU0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjM0YjI3NmEyYzFhMzZkOTM3MmM0ZDE5NGYyOTYxMjBmYjM5NjU5YzdmZmVhNGRmZmJkZGZiM2QxZDVkZGE3NTUiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAIpHwVA9Qp98UCaz8rH4fqb5wlqElbTpABxdh1FDHiebboZKwTd8eQXf3QmdzRG7T0yD1P2lh1ycJQtUOPukXBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMubQnDykQrw1CdWWeWWz0pIZniGPMs78S+XagsP2OG5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/koerel
+
+==================================================================

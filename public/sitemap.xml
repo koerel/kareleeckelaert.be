@@ -3,75 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kareleeckelaert.be/blog/on-chromecasts-and-slack/</loc>
+    <loc>https://kareleeckelaert.be/blog/on-chromecasts-and-slack/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/about/</loc>
+    <loc>https://kareleeckelaert.be/books/</loc>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/blog/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://kareleeckelaert.be/about/</loc>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kareleeckelaert.be/tags/chromecast/</loc>
+    <loc>https://kareleeckelaert.be/blog/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/categories/cryptography/</loc>
+    <loc>https://kareleeckelaert.be/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kareleeckelaert.be/tags/chromecast/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/</loc>
+    <loc>https://kareleeckelaert.be/categories/cryptography/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/tags/music/</loc>
+    <loc>https://kareleeckelaert.be/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/categories/music/</loc>
+    <loc>https://kareleeckelaert.be/tags/music/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/tags/raspberry-pi/</loc>
+    <loc>https://kareleeckelaert.be/categories/music/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/tags/slack/</loc>
+    <loc>https://kareleeckelaert.be/tags/raspberry-pi/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/tags/</loc>
+    <loc>https://kareleeckelaert.be/tags/slack/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://kareleeckelaert.be/categories/technology/</loc>
+    <loc>https://kareleeckelaert.be/tags/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kareleeckelaert.be/categories/technology/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
