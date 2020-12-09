@@ -25,4 +25,21 @@ Here's what I've been reading
 - [x] The Handmaid's Tale - Margaret Atwood
 - [x] Winter World - A.G. Riddle
 - [x] The Grand Design - Stephen Hawking
-- [ ] The Hidden Reality - Brian Greene 
+- [x] The Hidden Reality - Brian Greene 
+- [ ] Factfulness - Hans Rosling
+
+## 2020
+
+- [x] Bang!: The Complete History of the Universe - Patrick Moore, Brian May
+- [x] A Map of the Invisible - Jon Butterworth
+- [x] Black Holes, Wormholes and Time Machines - Jim Al-Khalili
+- [x] The Particle at the End of the Universe - Sean Caroll
+- [x] The World According to Physics - Jim Al-Khalili
+- [x] Runners World How to Make Yourself Poop - Meghan Kita
+- [x] Lifespan: Why We Age and Don't Have To - David Sinclair
+- [x] The Future Is Fatser Than You Think - Peter Diamandis
+- [x] Black Holes & Time Warps - Kip Thorne
+- [x] Hiding in the Mirror - Lawrence M. Krauss
+- [x] A Universe from Nothing - Lawrence M. Krauss
+- [x] The Origins of Everything in 100 Pages - David Bercovici
+- [x] Het Lichaam - Bill Bryson
