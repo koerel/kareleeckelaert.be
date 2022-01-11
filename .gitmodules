@@ -1,6 +1,9 @@
 [submodule "themes/whiteplain"]
 	path = themes/whiteplain
 	url = git@github.com:taikii/whiteplain.git
+[submodule "themes/cocoa"]
+	path = themes/cocoa
+	url = git@github.com:nishanths/cocoa-hugo-theme.git
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = git@github.com:luizdepra/hugo-coder.git

@@ -2,6 +2,11 @@
 
 Here's what I've been reading
 
+## 2017
+- [x] De kunst van het crashen - Peter Verhelst
+- [x] Tongkat - Peter Verhelst
+- [x] A Brief History of Time - Stephen Hawking
+
 ## 2018
 
 - [x] Sapiens - Yuval Noah Harari
@@ -13,6 +18,8 @@ Here's what I've been reading
 - [x] Seven Brief Lessons on Physics - Carlo Rovelli
 - [x] Reality is not what it seems - Carlo Rovelli
 - [x] The Fabric of the Cosmos - Brian Greene
+- [x] The Subtle Art of Not Giving a Fuck - Mark Manson
+- [x] Black Holes & Time Warps - Kip Thorne
 
 ## 2019
 
@@ -43,3 +50,30 @@ Here's what I've been reading
 - [x] A Universe from Nothing - Lawrence M. Krauss
 - [x] The Origins of Everything in 100 Pages - David Bercovici
 - [x] Het Lichaam - Bill Bryson
+
+## 2021
+
+- [x] Wine for Normal People - Elizabeth Schneider
+- [x] Fundamentals: Ten Keys to Reality - Frank Wilczek
+- [x] The Case for Keto - Gary Taubes
+- [x] Quantum: A Guide For The Perplexed - Jim Al-Khalili
+- [x] Spoon-Fed: Why Everything We've Been Told About Food is Wrong - Tim Spector
+- [x] At the Edge of Time - Dan Hooper
+- [x] The Food Lab - J. Kenji Lopez-Alt
+- [x] Breath: The New Science of a Lost Art - James Nestor
+- [x] Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking - Samin Nosrat
+- [ ] Guns, Germs and Steel - Jared Diamond
+- [x] An Entangled Life - Merlin Sheldrake
+- [x] Cooked - Michael Pollan
+- [ ] The Web of Meaning - Jeremy Lent
+- [x] Genome - Matt Ridley
+- [x] First Light: Switching on Start at the Dawn of Time - Emma Chapman
+- [x] Het drielichamenprobleem - Cixin Liu
+- [x] Pur - Bouma Machteld
+- [ ] The Dark Forest - Cixin Liu
+- [ ] How to Change your Mind - Michael Pollan
+
+## 2022
+
+- [x] Burn - Herman Pontzer
+- [ ] Man's Search for Meaning - Viktor Frankl
