@@ -20,6 +20,8 @@ Here's what I've been reading
 - [x] The Fabric of the Cosmos - Brian Greene
 - [x] The Subtle Art of Not Giving a Fuck - Mark Manson
 - [x] Black Holes & Time Warps - Kip Thorne
+- [x] Deskbound: Standing Up to a Sitting World - Kelly Starrett
+- [x] Gut: The Inside Story of Our Body’s Most Underrated Organ - Giulia Enders
 
 ## 2019
 
@@ -34,6 +36,9 @@ Here's what I've been reading
 - [x] The Grand Design - Stephen Hawking
 - [x] The Hidden Reality - Brian Greene 
 - [ ] Factfulness - Hans Rosling
+- [x] Code: The Hidden Language of Computer Hardware and Software - Charles Petzold
+- [ ] Game Theory 101: The Complete Textbook - William Spaniel
+- [x] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik
 
 ## 2020
 

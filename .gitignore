@@ -1,3 +1,4 @@
 .env
 .awspublish-kareleeckelaert.be
 node_modules/
+public/
