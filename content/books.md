@@ -81,4 +81,25 @@ Here's what I've been reading
 ## 2022
 
 - [x] Burn - Herman Pontzer
-- [ ] Man's Search for Meaning - Viktor Frankl
+- [ ] Man’s Search for Meaning - Viktor Frankl
+- [x] This Is Your Mind On Plants - Michael Pollan
+- [x] Immuun - Daniel Davis
+- [x] How to Invent Everything - Ryan North
+- [ ] The Doors of Perecption - Aldous Huxley
+- [x] Terra Insecta - Anne Sverdrup-Thygeson
+- [x] Fysica - Lieven Scheire
+- [x] Tossen met de kosmos - George van Hal
+- [x] Genesis: The Story of How Everything Began - Guido Tonelli
+- [x] The God Equation: The Quest for a Theory of Everything - Michio Kaku
+- [x] A Brief Welcome to the Universe - Neil Degrasse Tyson
+- [x] De Jaloezieman - Jo Nesbo
+- [x] Piranesi - Susanne Clarke
+- [x] A Brief History of the Earth - Andrew H. Knoll
+
+## 2023
+- [x] DNA - Lieven Scheire
+- [x] Orakel - Thomas Olde Heuvelt
+- [x] Zonneschaduw - Jasper T. Scott
+- [ ] Congo - David van Reybrouck
+- [ ] Een kleine geschiedenis van iedereen die ooit geleefd heeft - Adam Rutherford
+- [ ] What's our problem - Tim Urban
